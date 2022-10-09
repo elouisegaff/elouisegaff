@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Elouise Gaffney and I am a software engineering and mathematics student at The University of Queensland. I am looking forward to learning more over the course of my degree and beyond 🌱
+
+- 🔭 I’m currently working in the [HEX12 Team](https://github.com/hex-12)
+- 📫 How to reach me: [Elouise Gaffney](https://www.linkedin.com/in/elouise-gaffney-500275231/?trk=public_profile_browsemap&originalSubdomain=au)
+
 <!--
 **elouisegaff/elouisegaff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
